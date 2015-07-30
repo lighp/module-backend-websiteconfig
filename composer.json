@@ -1,0 +1,16 @@
+{
+    "name": "lighp/module-backend-websiteconfig",
+    "description": "Backend module to configure website config.",
+    "license": "MIT",
+    "version": "0.1.0",
+    "type":"lighp-module",
+    "authors": [
+        {
+            "name": "emersion",
+            "email": "contact@emersion.fr"
+        }
+    ],
+    "require": {
+        "lighp/composer-lighp-installers": "dev-master"
+    }
+}
